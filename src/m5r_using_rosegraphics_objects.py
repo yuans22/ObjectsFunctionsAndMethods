@@ -26,7 +26,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #              down
 #
 #     b. Write a line of code that constructs a basic RoseWindow object:
-#            RoseWindow = rg.RoseWindow(500, 300)
+#            window = rg.RoseWindow()
 #
 #     c. What is the default height of a RoseWindow?
 #        (Type the code shown in your answer above within main to see if PyCharm will help you figure out the answer.
