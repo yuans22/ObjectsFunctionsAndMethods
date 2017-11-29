@@ -148,8 +148,6 @@ def lines():
     line_thicker = rg.Line(start1, end1)
     line_thicker.attach_to(window)
     line_thicker.thickness = 5
-    midpoint = rg.Point((100+121)/2, (100+200)/2)
-
 
     start2 = rg.Point(200,200)
     end2 = rg.Point(222,300)
@@ -163,13 +161,12 @@ def lines():
     print('X coordinate of the midpoint for line: 211')
     print('y coordinate of the midpoint for line: 150')
 
-
     window.render()
 
     window.close_on_mouse_click()
 
     # ------------------------------------------------------------------
-    # TODO: 4. Implement and test this function.
+    # DONE: 4. Implement and test this function.
     # ------------------------------------------------------------------
 
 
