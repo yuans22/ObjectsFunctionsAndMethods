@@ -20,10 +20,10 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #              top left corner
 #
 #        -- In what direction on the screen does the positive X-axis point?
-#              downward
+#              right
 #
 #        -- In what direction on the screen does the positive Y-axis point?
-#              right
+#              down
 #
 #     b. Write a line of code that constructs a basic RoseWindow object:
 #            RoseWindow = rg.RoseWindow(500, 300)
@@ -40,7 +40,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #     e. Use the DOT trick to answer the following:
 #
 #          -- Write the names of two types of graphics objects that you can construct OTHER than Circle and Point:
-#               Ellipse; polygon ????????????????????????
+#               Line; polygon 
 #
 #          -- Write the names of three METHODs that Circle objects have:
 #               (Hint: Use the circle from the example3 function below with the dot trick to let PyCharm help you. )
